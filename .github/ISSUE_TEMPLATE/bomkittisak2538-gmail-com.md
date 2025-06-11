@@ -1,7 +1,7 @@
 ---
-name: bomkittisak2538@gmail.com
-about: bomkittisak2538@gmail.com
-title: bomkittisak2538@gmail.com
+name: bomkittisak2538@verdy.me
+about: bomkittisak2538@vardy.org
+title: bomkittisak2538@vardy.com
 labels: ''
 assignees: ''
 
